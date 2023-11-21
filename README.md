@@ -1,9 +1,9 @@
 # Text-Summarizer-Project
 
 ## Overview
-- Dataset:
-- Project use HuggingFace transformer model and coding-from-scratch transformer model for text summarizing task.
+This project focuses on text summarization using HuggingFace transformer models. The primary objective is to explore the capabilities of transformer models in the context of text summarization tasks.
 
+As part of the learning process and to deepen understanding of Transformer models, this project experiments with implementing a text summarization model using TensorFlow.
 
 ## Workflows
 
